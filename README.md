@@ -1,7 +1,5 @@
 # WiFi-Pineapple-Pager-Themes
-Themes for the Hak5 WiFi Pineapple Pager by cncartist
-
-Themes are installed to the pager by copying the theme's folder to the theme directory on the pager: /root/themes/
+Themes for the Hak5 WiFi Pineapple Pager by cncartist.  Themes are installed to the pager by copying the theme's folder to the theme directory on the pager: "/root/themes/"
 
 Ex. /root/themes/Space_Horror/
 
