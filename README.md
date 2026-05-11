@@ -1,6 +1,11 @@
 # WiFi-Pineapple-Pager-Themes
 Themes for the Hak5 WiFi Pineapple Pager by cncartist
 
+Themes are installed to the pager by copying the theme's folder to the theme directory on the pager: /root/themes/
+
+Ex. /root/themes/Space_Horror/
+
+
 
 # Space Horror
 "Space Horror" is a dark colorful theme optimized for the pager with a space ambience and many unique backgrounds and creatures.  The theme is built from "Zombie UFO" which is made for FW 1.0.7+, tested on 1.0.9.  I hope you have as much fun using my theme as I did creating it.
