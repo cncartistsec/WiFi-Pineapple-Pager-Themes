@@ -6,7 +6,7 @@ Ex. /root/themes/Space_Horror/
 
 
 # Space Horror
-"Space Horror" is a dark colorful theme optimized for the pager with a space ambience and many unique backgrounds and creatures.  The theme is built from "Zombie UFO" which is made for FW 1.0.7+, tested on 1.0.9.  I hope you have as much fun using my theme as I did creating it.
+"Space Horror" is a dark colorful theme optimized for the pager with a space ambience and many unique backgrounds and creatures.  The theme is tested on 1.1.0 and originally built from "Zombie UFO".  I hope you have as much fun using my theme as I did creating it.
 
 
 ![Space Horror Payloads Dashboard](images/Space_Horror_payloads.png)
