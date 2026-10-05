@@ -47,7 +47,7 @@
       }
     },
     "Vibrate": {
-      "x": 251,
+      "x": 154,
       "y": 5,
       "layers": {
         "on":  [{ "image_path": "assets/vibrate.png", "x": 0, "y": 0 }],
@@ -55,7 +55,7 @@
       }
     },
     "WifiClient": {
-      "x": 217,
+      "x": 120,
       "y": 3,
       "layers": {
         "disabled": [{ "image_path": "assets/wifi_off.png", "x": 0, "y": 0 }],
