@@ -51,7 +51,7 @@
       "y": 5,
       "layers": {
         "on":  [{ "image_path": "assets/vibrate.png", "x": 0, "y": 0 }],
-        "off": [{ "image_path": "assets/vibrate.png", "x": 0, "y": 0, "recolor_palette": "gray" }]
+        "off": [{ "image_path": "assets/vibrate_off.png", "x": 0, "y": 0 }]
       }
     },
     "WifiClient": {
